@@ -35,7 +35,7 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: url("https://img.freepik.com/premium-photo/white-flowers-leaves-paper-texture-white-background_997580-448.jpg");
+             background: url("https://img.freepik.com/premium-photo/pink-flowers-pink-background_1000124-2011.jpg");
              background-size: cover
          }}
          </style>
